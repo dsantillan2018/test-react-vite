@@ -5,7 +5,7 @@ function App() {
     return (
         <>
             <article>
-                <p>Clase DWFS</p>
+                <p>Clase DWFS David</p>
             </article>
             <section>
                 <p>23 Abril</p>
